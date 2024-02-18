@@ -1,0 +1,215 @@
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\ProjektKordalski.exe.config
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\ProjektKordalski.exe
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\ProjektKordalski.pdb
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.AssemblyReference.cache
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.BMIcalc.resources
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.MainApp.resources
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.Properties.Resources.resources
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.GenerateResource.cache
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.CoreCompileInputs.cache
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.exe
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.pdb
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.EditForm.resources
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.DataEdit.resources
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.Chart.resources
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.Diet.resources
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Files\diets.csv
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.barcodes.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.commons.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.forms.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.io.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.kernel.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.layout.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.pdfa.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.sign.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.styledxmlparser.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.svg.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Newtonsoft.Json.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Buffers.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Memory.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Numerics.Vectors.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.ValueTuple.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.barcodes.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.commons.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.forms.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.io.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.kernel.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.layout.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.pdfa.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.sign.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.styledxmlparser.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.svg.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Newtonsoft.Json.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Buffers.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Memory.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Numerics.Vectors.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.ValueTuple.xml
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.CopyComplete
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\BouncyCastle.Crypto.dll
+C:\Na nowy dysk\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\BouncyCastle.Crypto.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Files\diets.csv
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\ProjektKordalski.exe.config
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\ProjektKordalski.exe
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\ProjektKordalski.pdb
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\BouncyCastle.Crypto.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.barcodes.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.bouncy-castle-connector.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.commons.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.forms.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.io.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.kernel.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.layout.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.pdfa.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.sign.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.styledxmlparser.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.svg.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Options.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Newtonsoft.Json.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Buffers.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Memory.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Numerics.Vectors.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.ValueTuple.dll
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\BouncyCastle.Crypto.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.barcodes.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.bouncy-castle-connector.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.commons.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.forms.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.io.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.kernel.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.layout.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.pdfa.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.sign.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.styledxmlparser.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.svg.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Options.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Newtonsoft.Json.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Buffers.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Memory.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Numerics.Vectors.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.ValueTuple.xml
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.AssemblyReference.cache
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.SuggestedBindingRedirects.cache
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.Chart.resources
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.Diet.resources
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.EditForm.resources
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.BMIcalc.resources
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.DataEdit.resources
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.MainApp.resources
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.Properties.Resources.resources
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.GenerateResource.cache
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.CoreCompileInputs.cache
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.CopyComplete
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.exe
+D:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.pdb
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Files\diets.csv
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\ProjektKordalski.exe.config
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\ProjektKordalski.exe
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\ProjektKordalski.pdb
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\BouncyCastle.Crypto.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.barcodes.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.bouncy-castle-connector.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.commons.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.forms.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.io.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.kernel.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.layout.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.pdfa.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.sign.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.styledxmlparser.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.svg.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Options.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Newtonsoft.Json.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Buffers.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Memory.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Numerics.Vectors.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.ValueTuple.dll
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\BouncyCastle.Crypto.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.barcodes.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.bouncy-castle-connector.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.commons.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.forms.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.io.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.kernel.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.layout.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.pdfa.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.sign.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.styledxmlparser.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\itext.svg.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Options.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\Newtonsoft.Json.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Buffers.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Memory.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Numerics.Vectors.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\bin\Debug\System.ValueTuple.xml
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.AssemblyReference.cache
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.SuggestedBindingRedirects.cache
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.Chart.resources
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.Diet.resources
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.EditForm.resources
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.BMIcalc.resources
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.DataEdit.resources
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.MainApp.resources
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.Properties.Resources.resources
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.GenerateResource.cache
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.CoreCompileInputs.cache
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.csproj.CopyComplete
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.exe
+E:\semestr5\aplikacje .net\ProjektKordalskiSolution\ProjektKordalskiSolution\ProjektKordalski\obj\Debug\ProjektKordalski.pdb
